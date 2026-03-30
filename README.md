@@ -2,8 +2,8 @@
 # Open Source Audit Project
 
 ## Student Details
-Name: Prateek kumar kuntal
-Roll Number: 24bai10860 
+Name: Deepak sharma
+Roll Number: 24bce10519
 
 ## Chosen Software
 Git
